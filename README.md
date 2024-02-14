@@ -1,4 +1,4 @@
-<h1> Security Operation Center(SOC) Automamtion</h1>
+<h1> Security Operation Center(SOC) Automation</h1>
 <h2>Description</h2>
   In this home lab, I am going to build and configure a Wazuh security information and event management(SIEM) and a security orchestration, automation, and response(SOAR). I will set up a Wazuh server and integrate a SOAR to help automate tasks within the environment to make identification, containment, and eradication quicker. I will create a rule to identify the use of Mimikatz, a prominent credential dumper, within the SOC environment.
 <br />
